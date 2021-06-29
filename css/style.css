@@ -1,0 +1,21 @@
+body {
+    background-color: #E8F0F2;
+}
+h1 {
+    color: blueviolet;
+}
+h3 {
+    color: #351F39;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: brown;
+    width: 15%;
+}
+.aashna {
+    height: 250px;
+
+    width: 250px;
+}
